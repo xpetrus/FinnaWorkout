@@ -21,4 +21,4 @@ The application is built with React and the full MERN stack.
 * State management in React
 * Database creation in MongoDB
 * User authentication using PassportJs 
-* Hosting React app on Github pages
+
