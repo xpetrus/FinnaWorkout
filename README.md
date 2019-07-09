@@ -19,6 +19,6 @@ The application is built with React and the full MERN stack.
 
 ### What I've Learned in the Process:
 * State management in React
-* Deploying MongoDB using mLab
-* User authentication using PassportJs 
+* User authentication using Passport.js
+* Deploying MongoDB database using mLab
 
