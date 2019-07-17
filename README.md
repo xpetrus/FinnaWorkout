@@ -8,7 +8,7 @@ Finna Work out is a Randomized exercise generator and basic fitness tracker desi
 The application is built with React and the full MERN stack.
 
 
-**Check it out:** 
+**Check it out:** https://finna-workout.herokuapp.com
 ### Technologies Used:
 * React
 * React Strap
